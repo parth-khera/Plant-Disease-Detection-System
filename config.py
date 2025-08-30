@@ -1,4 +1,5 @@
 # config.py
 
-GEMINI_API_KEY = "AIzaSyAKyBPBtcYhG5x7-n0bgu_SwRvL3-ZTqZY"
-PERPLEXITY_API_KEY = "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"
+GEMINI_API_KEY = "paste your api here"
+PERPLEXITY_API_KEY = "paste your api here"
+
