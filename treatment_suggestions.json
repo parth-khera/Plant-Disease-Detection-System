@@ -1,0 +1,45 @@
+{
+  "healthy": {
+    "description": "Your plant appears to be healthy with no visible signs of disease!",
+    "treatment": "Continue providing optimal care conditions for your plant.",
+    "prevention": "Maintain consistent watering, proper sunlight exposure, and balanced fertilization to keep your plant healthy.",
+    "tips": [
+      "Water when the top 2-3 inches of soil feel dry",
+      "Provide 6-8 hours of indirect sunlight daily",
+      "Use balanced fertilizer every 4-6 weeks during growing season"
+    ]
+  },
+  "bacterial_spot": {
+    "description": "Bacterial spot disease causes small, dark, water-soaked spots on leaves that may have a yellow halo.",
+    "treatment": "Remove and destroy affected leaves immediately. Apply copper-based bactericide spray every 7-10 days.",
+    "prevention": "Avoid overhead watering to prevent water from sitting on leaves. Ensure good air circulation around plants.",
+    "tips": [
+      "Space plants properly to allow air movement",
+      "Water at soil level, not on leaves",
+      "Clean tools between plants to prevent spread",
+      "Apply preventive copper spray during wet seasons"
+    ]
+  },
+  "early_blight": {
+    "description": "Early blight appears as dark spots with concentric rings, typically starting on older leaves.",
+    "treatment": "Remove affected leaves and apply fungicide containing chlorothalonil or mancozeb. Improve air circulation.",
+    "prevention": "Mulch around plants to prevent soil splash. Rotate crops and avoid planting in same location year after year.",
+    "tips": [
+      "Apply fungicide preventively during humid conditions",
+      "Remove plant debris from garden beds",
+      "Water early in the day to allow leaves to dry quickly",
+      "Stake plants to improve air circulation"
+    ]
+  },
+  "late_blight": {
+    "description": "Late blight causes large, dark, water-soaked lesions that spread rapidly, especially in cool, wet conditions.",
+    "treatment": "Remove and destroy affected plants immediately. Apply fungicide containing mefenoxam or phosphorous acid.",
+    "prevention": "Plant resistant varieties. Avoid working with plants when they are wet. Improve drainage in planting areas.",
+    "tips": [
+      "Monitor weather forecasts and apply preventive sprays before rain",
+      "Remove volunteer plants from previous seasons",
+      "Use drip irrigation instead of overhead watering",
+      "Apply fungicide at first sign of disease and repeat every 7-10 days"
+    ]
+  }
+}
